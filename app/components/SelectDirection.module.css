@@ -1,0 +1,13 @@
+.searchForm {
+  display: flex;
+  align-items: center;
+  cursor: row-resize;
+}
+
+.warningAlert {
+  color: #F00;
+  border: #F00 2px dotted;
+  border-radius: 10px;
+  padding: 1rem 2rem;
+  margin: 1rem 0.5rem;
+}
