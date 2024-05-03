@@ -21,10 +21,6 @@
   align-items: center;
 }
 
-/* .buyTicket {
-  cursor: pointer;
-} */
-
 .warningAlert {
   color: #000;
   border: rgb(7, 216, 180) 2px groove;

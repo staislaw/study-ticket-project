@@ -88,7 +88,7 @@ export const api = {
       flightDates: [selectDirectionDate(0), selectDirectionDate(1), selectDirectionDate(2)]
     },
     {
-      routeNumber: 62,
+      routeNumber: 37,
       departureCityId: 2,
       arriveCityId: 3,
       price: 10500,
@@ -98,7 +98,7 @@ export const api = {
       flightDates: [selectDirectionDate(1)]
     },
     {
-      routeNumber: 14,
+      routeNumber: 38,
       departureCityId: 3,
       arriveCityId: 4,
       price: 4100,
@@ -108,7 +108,7 @@ export const api = {
       flightDates: [selectDirectionDate(1)]
     },
     {
-      routeNumber: 34,
+      routeNumber: 39,
       departureCityId: 4,
       arriveCityId: 2,
       price: 7000,
